@@ -1,0 +1,31 @@
+.cloud-img{
+    width: 100px;
+    }
+    .input{
+        border: 1px solid black !important;
+    }
+    .input-group>.form-control:focus {
+        /* transition: all .2s linear; */
+        outline: none;
+        box-shadow: none!important;
+        border: 1px solid black !important;
+    }
+    .search-container{
+        margin: auto;
+    }
+    .card-body{padding: 10px !important;}
+    .app-title{
+        color: black;
+       display: block;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .city-search-content{
+        font-size: 12px;
+    }
+    .error{
+        color: red;
+        position: absolute;
+        left: 16%;
+    }
+   

@@ -1,0 +1,52 @@
+.weatherInfo-container{
+    text-align: center;
+  
+    padding: 10px;
+}
+.weather-logo{
+    margin: 20px auto;
+}
+.img-sty{
+    width: 200px!important;
+
+}
+.a{
+    background-color: red;
+}
+.b{
+    background-color: yellow;
+}
+p{
+    margin: 0px !important;
+   
+}
+.dflex-c{
+    display: flex;
+    flex-direction: column;
+}
+.wether-info-container{
+    font-size: 12px;
+    text-transform: capitalize;
+}
+.we-c{
+    font-size: 10px;
+    margin: 5px;
+  text-align: start;
+}
+.we-decor{
+    margin: 0px 10px;
+ 
+}
+.wether-info-title{
+    margin: 8px 25px ;
+    text-transform: capitalize;
+    text-align: start;
+    width: 80%;
+    font-weight: bold;
+    font-size: 14px;
+}
+.all-wether-info{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: wrap; 
+}
